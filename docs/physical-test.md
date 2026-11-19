@@ -12,17 +12,16 @@ After physically installing this experimental image, the owner reported:
 
 1. The firmware updater loaded and the camera switched itself off.
 2. On restarting, **no Language item appeared in ordinary Setup**.
-3. In **service mode**, Language was now **enabled (not greyed out)**.
+3. The owner entered Panasonic's temporary **INITIAL SETTINGS cancellation** function by holding **Playback + Up + Zoom W** while switching the camera on. The **Language** item was then enabled (not greyed out).
 4. The owner selected **English**, and the menus displayed English.
 5. After switching the camera off and on, English still worked.
 6. The normal Setup menu still did not contain a Language item.
 7. The owner reported that everything else worked normally, and **Version Disp. showed v1.1**.
 
-This is a successful **persistent English-language conversion**, with a known service-mode requirement for making the initial English selection.
+This is a successful **persistent English-language conversion**, with the exact temporary INITIAL SETTINGS cancellation button sequence confirmed by the camera owner for making the initial English selection.
 
 ## Not verified
 
-- The exact service-mode key combination personally used by the owner was **not recorded**.
 - Identical behaviour on a second XS1, or on DMC-FH10/DMC-FS50.
 - Comprehensive testing of every camera feature, service setting or calibration.
 - Reinstalling Panasonic stock firmware as a rollback.
