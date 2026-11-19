@@ -1,0 +1,11 @@
+# Do not commit Panasonic proprietary firmware or private camera backups
+*.elf
+*.ELF
+*.BIN
+*.bin
+XS1_V11*.zip
+output/
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
